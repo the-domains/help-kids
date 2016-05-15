@@ -1,6 +1,6 @@
 name: 'Help Kids '
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.75328
 typography_spectrum: 0.7068518253508955
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.5657107271254063
-  lightness: 0.843811774160713
-  saturation: 0.0685988801997155
-  rhythmicContrast: 0.8784228081349283
+    - '#000000'
+    - '#d5d5d5'
+    - '#9e9e9e'
+    - '#595959'
+    - '#f8f8f8'
+  brandStrength: 0.5625
+  lightness: 0.5
+  saturation: 0.6875
+  rhythmicContrast: 0.5
 purpose: []
